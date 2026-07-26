@@ -62,7 +62,7 @@
 
 <br>
 
-👨‍💻 About Me
+About Me
 
 I am a **Full-Stack Developer** specializing in Laravel and React. I build scalable, secure, and maintainable web applications for modern businesses.
 
@@ -74,7 +74,7 @@ I am a **Full-Stack Developer** specializing in Laravel and React. I build scala
 
 <br>
 
-🛠️ Tech Stack
+Tech Stack
 
 <div align="center">
 
@@ -87,7 +87,7 @@ I am a **Full-Stack Developer** specializing in Laravel and React. I build scala
 
 <br>
 
-💼 Core Expertise
+Core Expertise
 
 ```text
 Backend        PHP, Laravel, REST API, Eloquent ORM
@@ -100,33 +100,24 @@ Architecture:   Clean Code, Secure APIs, Scalable Systems
 
 <br>
 
-🚀 What I Build
+What I Build
 
-<table>
-  <tr>
-    <td>Full-stack Laravel and React applications</td>
-    <td>Secure REST API development</td>
-  </tr>
-
-  <tr>
-    <td>SaaS platforms and admin dashboards</td>
-    <td>E-commerce and marketplace systems</td>
-  </tr>
-
-  <tr>
-    <td>Authentication and permission systems</td>
-    <td>Payment gateway integrations</td>
-  </tr>
-
-  <tr>
-    <td>Third-party API integrations</td>
-    <td>Real-time notifications</td>
-  </tr>
-</table>
+```text
+SaaS Platforms
+E-commerce & Marketplace
+Admin Dashboards
+React Frontends
+Secure REST APIs
+Payment Gateway Integration
+Third-party API Integration
+High-performance Laravel Applications
+Scalable System Architecture
+Responsive User Interfaces
+```
 
 <br>
 
-🐍 Contribution Snake
+Contribution Snake
 
 <p align="center">
   <picture>
@@ -148,7 +139,7 @@ Architecture:   Clean Code, Secure APIs, Scalable Systems
 
 <br>
 
-🤝 Let's Connect
+Let's Connect
 
 <p align="center">
 
