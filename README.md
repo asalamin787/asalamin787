@@ -280,11 +280,23 @@ $developer = [
 
 <div align="center">
 
-<img
- src="https://raw.githubusercontent.com/asalami787/asalami787/output/github-contribution-grid-snake-dark.svg"
- width="100%"
- alt="Animated Contribution Snake"
-/>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/asalamin787/asalamin787/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/asalamin787/asalamin787/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      width="100%"
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/asalamin787/asalamin787/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
 </div>
 
