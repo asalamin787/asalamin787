@@ -1,4 +1,4 @@
-````html
+html
 <!-- ========================================
      ANIMATED GITHUB PROFILE README
      Alamin Sikder
@@ -106,7 +106,6 @@ I build modern, scalable, secure and user-friendly web applications.
 
 ## 🎯 Developer Profile
 
-```php
 <?php
 
 $developer = [
@@ -147,9 +146,7 @@ $developer = [
         'Better User Experience',
     ],
 ];
-````
 
----
 
 ## 🛠️ Technologies and Tools
 
@@ -370,4 +367,4 @@ $developer = [
     alt="Footer"
   />
 </p>
-```
+
