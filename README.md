@@ -22,35 +22,6 @@
 
 <br>
 
-<p align="center">
-
-  <a href="https://linkedin.com/in/your-linkedin-id">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://your-portfolio.com">
-    <img
-      src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-
-  <a href="mailto:your-email@example.com">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=asalamin787&label=Profile%20Views&color=2563EB&style=flat-square"
-    alt="Profile Views"
-  />
-
-</p>
 
 <br>
 
@@ -139,41 +110,30 @@ Contribution Snake
 
 <br>
 
-Let's Connect
+Ready to Build Your Next Project?
 
 <p align="center">
 
-  <a href="https://linkedin.com/in/your-linkedin-id">
-    <img
-      src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:your-email@example.com">
-    <img
-      src="https://img.shields.io/badge/Send%20an%20Email-111827?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
+I specialize in building modern **Laravel**, **React**, **REST API**, and **SaaS** applications with clean architecture and scalable solutions.
 
 </p>
 
-<br>
+<p align="center">
 
-<div align="center">
+<a href="https://www.fiverr.com/alaminsikder007">
+<img src="https://img.shields.io/badge/🚀%20Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge" />
+</a>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=38BDF8&center=true&vCenter=true&width=760&lines=Clean+Code+%E2%80%A2+Scalable+Architecture+%E2%80%A2+Better+User+Experience;Turning+Ideas+Into+Reliable+Digital+Products"
-    alt="Footer Message"
-  />
+<a href="https://www.linkedin.com/in/al-amin-sikder-614623307/">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge" />
+</a>
 
-</div>
+<a href="mailto:asalaminsikder787@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge" />
+</a>
+
+</p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:1E293B,100:2563EB"
-    width="100%."
-    alt="Footer"
-  />
+<b>Thanks for visiting my profile ❤️</b>
 </p>
