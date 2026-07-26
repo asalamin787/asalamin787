@@ -6,17 +6,13 @@ on:
 
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
-    permissions:
-      contents: write
 
     steps:
       - name: Generate contribution snake
@@ -29,10 +25,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish contribution snake
+      - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          target_branch: output
           build_dir: dist
-          branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
