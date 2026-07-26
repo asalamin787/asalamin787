@@ -30,17 +30,17 @@
 <!-- Profile Badges -->
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=asalami787&label=PROFILE+VIEWS&color=FF2D20&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=asalamin787&label=PROFILE+VIEWS&color=FF2D20&style=for-the-badge"
     alt="Profile Views"
   />
 
   <img
-    src="https://img.shields.io/github/followers/asalami787?label=FOLLOWERS&style=for-the-badge&color=20232A"
+    src="https://img.shields.io/github/followers/asalamin787?label=FOLLOWERS&style=for-the-badge&color=20232A"
     alt="GitHub Followers"
   />
 
   <img
-    src="https://img.shields.io/github/stars/asalami787?label=TOTAL+STARS&style=for-the-badge&color=F7B93E"
+    src="https://img.shields.io/github/stars/asalamin787?label=TOTAL+STARS&style=for-the-badge&color=F7B93E"
     alt="GitHub Stars"
   />
 </p>
@@ -236,13 +236,13 @@ $developer = [
 
 <img
  width="49%"
- src="https://github-readme-stats.vercel.app/api?username=asalami787&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+ src="https://github-readme-stats.vercel.app/api?username=asalamin787&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
  alt="GitHub Statistics"
 />
 
 <img
  width="49%"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalami787&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalamin787&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css"
  alt="Most Used Languages"
 />
 
@@ -254,7 +254,7 @@ $developer = [
 
 <img
  width="75%"
- src="https://streak-stats.demolab.com?user=asalami787&theme=tokyonight&hide_border=true&border_radius=10"
+ src="https://streak-stats.demolab.com?user=asalamin787&theme=tokyonight&hide_border=true&border_radius=10"
  alt="GitHub Contribution Streak"
 />
 
@@ -267,7 +267,7 @@ $developer = [
 <div align="center">
 
 <img
- src="https://github-readme-activity-graph.vercel.app/graph?username=asalami787&theme=tokyo-night&hide_border=true&area=true&custom_title=Alamin%20Sikder's%20Contribution%20Graph"
+ src="https://github-readme-activity-graph.vercel.app/graph?username=asalamin787&theme=tokyo-night&hide_border=true&area=true&custom_title=Alamin%20Sikder's%20Contribution%20Graph"
  width="100%"
  alt="GitHub Contribution Graph"
 />
@@ -305,7 +305,7 @@ $developer = [
 <div align="center">
 
 <img
- src="https://github-profile-trophy.vercel.app/?username=asalami787&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7"
+ src="https://github-profile-trophy.vercel.app/?username=asalamin787&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7"
  width="100%"
  alt="GitHub Trophies"
 />
